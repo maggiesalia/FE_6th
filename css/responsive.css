@@ -1,0 +1,19 @@
+@media (max-width: 1024px) {
+    .services{
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px)  {
+    .container{
+        padding: 20px;
+    }
+    .header,
+    footer{
+        justify-content: center;
+    }
+    nav{
+        margin-top: 10px;
+    }
+}
+
